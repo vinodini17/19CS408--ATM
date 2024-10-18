@@ -1,5 +1,3 @@
-# Ex-1 UML Diagrams for ATM & Banking Systems :
-
 ## Aim :
 To create UML Diagrams for ATM & Banking systems using StarUML.
 

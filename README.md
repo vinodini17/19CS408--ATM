@@ -1,27 +1,23 @@
-# 19CS408--ATM
+# Ex-1 UML Diagrams for ATM & Banking Systems :
 
-## Name : VINODINI R
-## Reg no : 212223040244
+## Aim :
+To create UML Diagrams for ATM & Banking systems using StarUML.
 
+## Use Case Diagram :
 
-## Sequence diadram
-![ATM SEQUENCE](https://github.com/user-attachments/assets/c0a5f14d-ee33-4771-8fd5-7ef36255a7a6)
+![ATM_Use case](https://github.com/user-attachments/assets/68bbe283-4553-48e6-9f8d-69735cd3816d)
 
-## Activity daigram
-![image](https://github.com/user-attachments/assets/ce15050c-f9a5-4915-bd5b-b870458f8ca2)
+## Class Diagram :
 
+![ATM_Class](https://github.com/user-attachments/assets/0ff68f6b-c481-44f3-8392-5e8339cbedb0)
 
+## Sequence Diagram : 
 
-## Use Case daigram
-![ATM USE CASE](https://github.com/user-attachments/assets/e3811342-34de-428e-a692-b5f02be59aac)
+![ATM_Sequnce](https://github.com/user-attachments/assets/10a02da9-9953-43b8-9db9-799d4b435281)
 
-## Class daigram
-![image](https://github.com/user-attachments/assets/d56ff0fb-9c20-4b5b-af2d-56ffa7101318)
+## Activity Diagram :
 
+![ATM_Activity](https://github.com/user-attachments/assets/75b0fe11-5d3d-4407-a2a4-6c89ca02d3d1)
 
-## Package daigram
-![image](https://github.com/user-attachments/assets/053088f3-7920-4826-b02b-fb1f4c944d96)
-
-## Result
-All diagrams (Sequence, Activity, Use Case, Class, and Package) were successfully created and are clearly represented.
-
+## Conclusion : 
+The UML Diagrams for ATM & Banking Systems have been successfully created and implemented using StarUML.
